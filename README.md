@@ -5,7 +5,6 @@
 - 📫 How to reach me samio999ahmed@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Crazy about learning technical skills
-- 
 
 <!---
 samio-ahmed69/samio-ahmed69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
